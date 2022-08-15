@@ -17,7 +17,6 @@ a:hover {
     text-decoration: none;
     cursor: pointer;
 }
-
 #page-loading-blocs-notifaction {
     position: fixed;
     top: 0;
@@ -652,6 +651,10 @@ a {
     font-family: "helvetica";
     font-weight: 400;
     color: #575757!important;
+}
+
+.footer_link{
+    color: rgba(255, 255, 255, 0.8)!important;
 }
 
 .container {
